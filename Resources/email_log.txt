@@ -1,0 +1,10 @@
+5/18/2024 10:31:14 PM: Email of Client ID 4 was sent to vydang0212@gmail.com
+5/18/2024 10:27:50 PM: Email of Client ID 2 was sent to vydang0212@gmail.com (Default)
+5/18/2024 10:31:16 PM: Email of Client ID 4 was sent to vydang0212@gmail.com
+5/18/2024 10:54:42 PM: Email of Client ID 1 was sent to vydang0212@gmail.com
+5/18/2024 10:54:50 PM: Email of Client ID 2 was sent to vydang0212@gmail.com
+5/18/2024 10:54:58 PM: Email of Client ID 4 was sent to vydang0212@gmail.com
+5/18/2024 10:55:06 PM: Email of Client ID 5 was sent to vydang0212@gmail.com
+5/18/2024 11:03:23 PM: Email of Client ID 1 was sent to vydang0212@gmail.com
+5/18/2024 11:17:44 PM: Email of Client ID 1 was sent to vydang0212@gmail.com
+5/18/2024 11:19:37 PM: Email of Client ID 1 was sent to vydang0212@gmail.com
